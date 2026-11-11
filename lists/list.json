@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "updated": "2026-11-08T18:18:51Z",
+  "version": 3,
+  "updated": "2026-11-11T01:20:27Z",
   "cheats": {
-    "1y u lookin in here weirdo": "Malachi Menu",
+    "1y u lookin in here weirdo": "Anti-Checker Taunt",
     "255": "Unknown Numeric Spoofer",
     "3link.blinkTime": "3Link",
     "3link.frequency": "3Link",
@@ -24,6 +24,11 @@
     "CurrentEmote": "Vortex Emotes",
     "CurrentSong": "Song Display (Maybe a cheat?)",
     "Custom Property Setter": "Custom Property Spoofer",
+    "Divine.Console.AllowAdmin": "Divine (Console Malware)",
+    "Divine.Console.MenuName": "Divine (Console Malware)",
+    "Divine.Console.Version": "Divine (Console Malware)",
+    "Divine_Blaster_v1": "Divine Menu",
+    "Divine_Menu_v2": "Divine Menu",
     "EIOP": "EIOP USER",
     "Elixir": "Elixir",
     "ElixirMenu": "Elixir",
@@ -137,7 +142,7 @@
     "cronos": "Cronos",
     "dark": "ShibaGT Dark",
     "didnotTutorial": "didnotTutorial (Maybe cheat?)",
-    "discord.gg/playertracker": "Sony Tracker (player tracker)",
+    "discord.gg/playertracker": "Player Tracker",
     "discord.gg/so-pink | pink": "Pink Menu",
     "elux": "Elux",
     "envision build transform flourish": "Envision",
@@ -166,14 +171,14 @@
     "trackermod": "Sony Tracker (player tracker)",
     "tsbib": "Tsbib",
     "tsbibiscool": "Tsbib",
-    "ur actually so weird for making a mod checker LMAO get a life kid8.9.2": "Malachi Menu Reborn",
-    "ur actually so weird for making a mod checker LMAO get a life kid8.9.3": "Malachi Menu Reborn",
+    "ur actually so weird for making a mod checker LMAO get a life kid8.9.2": "Anti-Checker Taunt",
+    "ur actually so weird for making a mod checker LMAO get a life kid8.9.3": "Anti-Checker Taunt",
     "using gorilladrift": "Gorilla Drift",
     "violetfree": "Violet Free",
     "void": "Void",
     "void_menu_open": "Void",
-    "y u lookin in here wei": "Malachi Menu",
-    "y u lookin in here weirdo": "Malachi Menu Reborn",
+    "y u lookin in here wei": "Anti-Checker Taunt",
+    "y u lookin in here weirdo": "Anti-Checker Taunt",
     "\u00D8\u01A6\u0181\u0196\u01AC": "Orbit (Weeb)",
     "\u0405t\u03BF\u0440 u\u0455\u0456\u0578\u0261 m\u03BF\u0501\u0455 t\u0570\u0430t \u0440r\u03BFm\u03BFt\u0435 \u0570\u0430r\u0430\u0455\u0455m\u0435\u0578t": "Unknown menu, spoofer."
   },
@@ -281,6 +286,7 @@
     "usinggphys": "GPhys"
   },
   "partialCheats": {
+    "Divine.Console.": "Divine (Console Malware)",
     "anarchy anarchy anarchy": "Anarchy Spam Menu",
     "arrakis": "Arrakis",
     "chqser.lol": "Chqser",
@@ -293,8 +299,8 @@
     "spankyvrc": "SpankyVRC",
     "starlight mod menu": "Starlight Mod Menu",
     "stop checking my mods": "Anti-Checker Taunt",
-    "ur actually so weird for making a mod checker": "Malachi Menu Reborn",
-    "y u lookin in here": "Malachi Menu Reborn"
+    "ur actually so weird for making a mod checker": "Anti-Checker Taunt",
+    "y u lookin in here": "Anti-Checker Taunt"
   },
   "staff": {}
 }
