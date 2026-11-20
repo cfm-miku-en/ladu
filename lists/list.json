@@ -1,7 +1,8 @@
 {
-  "version": 9,
-  "updated": "2026-11-15T05:07:22Z",
-  "latestVersion": "1.0.3",
+  "version": 12,
+  "updated": "2026-11-20T14:15:55Z",
+  "latestVersion": "1.1.3",
+  "eulaVersion": 3,
   "cheats": {
     "1HyZbKCLBWKPzGqSVo2GXl5JmNvU6loOjvS5SGeUCn4Pb861D7Aub4uwy5g71rz0RBp3u7B2ZDAezSTC4H8z3OSUgdIhaAYrqJgx9z2Av8fkk5kzlQhIjKj13JC4Y2SfJeAjqwkYaSKPUEIrRYozHYPSf6dKuMLXrDPz2xh9PhnWJKrfXj6x": "Obfuscated spoof",
     "1y u lookin in here weirdo": "Anti-Checker Taunt",
@@ -338,6 +339,7 @@
     "y u lookin in here": "Anti-Checker Taunt"
   },
   "staff": {
-    "6D5a5o1a4e79538d": "LADU Staff"
+    "4CD09B52E2AA1480": "LADU Developer",
+    "6D5a501a4e79538d": "LADU Staff"
   }
 }
